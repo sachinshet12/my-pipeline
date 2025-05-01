@@ -11,6 +11,7 @@ Push the image to Docker Hub
 
 Deploy the application to Kubernetes
 
+
 🚀 Technologies Used
 Jenkins
 
@@ -22,6 +23,7 @@ Kubernetes
 
 Shell Scripting
 
+
 🗂️ Project Structure
 Copy
 Edit
@@ -30,6 +32,8 @@ Edit
 ├── deployment.yaml
 ├── service.yaml
 └── Jenkinsfile
+
+
 ⚙️ Jenkins Pipeline Breakdown
 ✅ Stage 1: Clone Code
 groovy
